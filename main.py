@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, abort, json
+from flask import Flask, render_templqate, request, abort, json
 from bson import json_util
 from pymongo import MongoClient, TEXT
 import pandas as pd
